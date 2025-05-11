@@ -49,19 +49,24 @@ This project automates the attendance tracking process by leveraging facial reco
 
 ## 📸 Screenshots
 
-### 🎦 Face Detection Interface
+### 🔐Login System
 
-![Face Detection](screenshots/detection.png)  
-_Real-time face detection with bounding boxes_
+![Face Detection](/img/Login.jpg)  
+\_Login_for_the_client_side
 
-### 📊 Attendance Dashboard
+### 👨‍💻Program flow
 
-![Dashboard](screenshots/dashboard.png)  
+![Dashboard](/img/code.png)  
 _Administrative view of attendance records_
 
 ### ✅ Student Verification
 
-![Verification](screenshots/verification.png)  
+![Verification](/img/1.jpg)  
+_Successful student identification process_
+
+### 📑 Database: PostegreSQL
+
+![Verification](/img/database.png)  
 _Successful student identification process_
 
 ## 🚀 Future Enhancements
